@@ -1,0 +1,29 @@
+{
+    "configuration": {
+        "general": {
+            "country": {
+                "default": {
+                    "store_view": {
+                        "luma_nl_nl": "NL"
+                    }
+                }
+            },
+            "locale": {
+                "code": {
+                    "store_view": {
+                        "luma_nl_nl": "nl_NL"
+                    }
+                }
+            }
+        },
+        "tax": {
+            "defaults": {
+                "country": {
+                    "store_view": {
+                        "luma_nl_nl": "NL"
+                    }
+                }
+            }
+        }
+    }
+}
