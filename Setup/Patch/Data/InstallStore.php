@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Jason\LumaEurope\Setup\Patch\Data;
+namespace Jason\LumaEuropeNLNL\Setup\Patch\Data;
 
 use Magento\Framework\Setup\Patch\DataPatchInterface;
 use MagentoEse\DataInstall\Model\Process;
